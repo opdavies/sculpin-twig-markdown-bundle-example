@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "sculpin/sculpin": "^3.0"
+        "sculpin/sculpin": "^3.0",
+        "opdavies/sculpin-twig-markdown-bundle": "dev-markdown"
     },
     "scripts": {
         "dev": "composer run-script generate",
